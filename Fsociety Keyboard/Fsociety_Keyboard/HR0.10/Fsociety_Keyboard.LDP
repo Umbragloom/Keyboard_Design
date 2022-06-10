@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\sumastap\Documents\Exciting Project\MKSumasta\MK_Sumasta.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=mk_sumasta-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=mk_sumasta-slotholes.txt|DrillLayers=gtl,gbl
